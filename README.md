@@ -9,26 +9,21 @@ Welcome to My ERP System! This is a simplified ERP system interface built with R
 - [Features](#features)
 - [Screenshots](#screenshots)
 
-## Installation
 
-To get started with the application, follow these steps:
+This projects main aims to create a simplified interface for an ERP (Enterprise Resource Planning) system using React. The system consists of the following pages:
 
-1. **Clone the Repository:**
+## Dashboard
+- Provides an overview of key metrics or features.
+- Includes links or buttons for quick navigation to other pages.
 
-```bash
-git clone https://github.com/Mubashir24241/my-erp-system.git
+## Products Management
+- Displays a list of products with details such as name, category, price, and stock quantity.
+- Allows for functionalities to add, edit, and delete products.
 
-Provides an overview of the system's features.
-Displays key metrics such as total number of products and orders.
-Includes links for quick navigation to the Products and Orders management pages.
-Products Management
-Allows for the management of product listings.
-Presents a list of products with details such as name, category, price, and stock quantity.
-Enables functionalities to add, edit, and delete products.
-Orders Management
-Facilitates viewing and handling orders.
-Shows a list of orders, including details like order ID, customer name, order date, and status.
-(Optional) Allows viewing of order details, updating the order status, and deletion of orders.
-Orders Calendar View (Optional)
-Displays orders on their expected delivery dates in a calendar interface.
-Provides the ability to click on a date to view all orders due for delivery that day.
+## Orders Management
+- Shows a list of orders with details like order ID, customer name, order date, and status.
+- (Optional) Enables viewing of order details, updating order status, and deletion of orders.
+
+## Orders Calendar View (Optional)
+- Implements a calendar view displaying orders based on their expected delivery dates.
+- Provides the
