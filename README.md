@@ -35,4 +35,4 @@ This projects main aims to create a simplified interface for an ERP (Enterprise 
 2. Run `npm install` to install the necessary dependencies.
 3. Open the `App.js` file to view and modify the code for the app.
 4. Run `npm start` to start the development server and launch the app in your browser.
-5. Explore the app and place food orders!
+5. Explore the app.
