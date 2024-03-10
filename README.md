@@ -36,3 +36,17 @@ This projects main aims to create a simplified interface for an ERP (Enterprise 
 3. Open the `App.js` file to view and modify the code for the app.
 4. Run `npm start` to start the development server and launch the app in your browser.
 5. Explore the app.
+
+## Cloning the Repository
+
+To clone the repository, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+   ```
+   git clone <repository-url>
+   ```
+   Replace `<repository-url>` with the URL of the repository.
+
+Now you have successfully cloned the repository to your local machine!
